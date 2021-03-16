@@ -1,0 +1,1 @@
+﻿start-process -FilePath "InstallO365.bat" -WorkingDirectory "C:\users\user\Desktop\Installs"

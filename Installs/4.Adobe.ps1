@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "readerdc_en_xa_cra_install.exe" -WorkingDirectory "C:\users\user\desktop\Installs" -Verb RunAs

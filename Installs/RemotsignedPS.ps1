@@ -1,0 +1,1 @@
+﻿set-executionpolicy -scope CurrentUser -executionPolicy RemoteSigned -force

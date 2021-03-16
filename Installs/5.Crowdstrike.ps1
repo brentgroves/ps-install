@@ -1,0 +1,1 @@
+﻿start-process -FilePath "RunThis.bat" -WorkingDirectory "C:\users\user\Desktop\Installs" -Verb RunAs

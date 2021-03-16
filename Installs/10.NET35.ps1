@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "dotnetfx35setup.exe" -WorkingDirectory "C:\users\user\desktop\Installs" -Verb RunAs

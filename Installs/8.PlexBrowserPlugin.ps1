@@ -1,0 +1,1 @@
+﻿& '.\BrowserPlugin(Per-Machine).msi'

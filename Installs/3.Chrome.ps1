@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "ChromeSetup.exe" -WorkingDirectory "C:\users\user\desktop\Installs" -Verb RunAs
